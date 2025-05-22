@@ -15,7 +15,7 @@ const server = http.createServer((request,response) => {
         response.write(`
             <h1>Not found, error 404</h1>
             <p>Invalid request</p>
-            <a href="/">Volver a la pagina inicial<a/>    
+            <a href="/">Back to home<a/>    
         `)
         response.end()
     }
