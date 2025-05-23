@@ -1,6 +1,7 @@
 # 🌐 Mi Primer Servidor con Node.js
 
 Este proyecto es un servidor básico creado con **Node.js**, como parte de un curso que estoy realizando de Node.js y Express. No utiliza frameworks, solo el módulo nativo `http`. Fue una excelente forma de entender cómo funciona un servidor desde cero.
+También hay un ejercicio de promesas donde resuelvo la lectura de un archivo con el modulo fileSystem de Node.js usando codigo asincrono con promesas.
 
 ---
 
